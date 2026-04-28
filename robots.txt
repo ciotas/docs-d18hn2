@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-407c24.citysinglescommunity.com/sitemap.xml
